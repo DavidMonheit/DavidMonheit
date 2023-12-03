@@ -3,6 +3,6 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>PiSTA (In affiliation with the IDF, Data Science, Algorithms, Python)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [PiSTA](https://github.com/DavidMonheit/PiSTA-Pivotal-Shift-Transactional-Analytics)
 - <b>AutoBot (Computer Vision, Machine Learning, Python, React, JavaScript, C#, MVC</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [AutoBot](https://github.com/DavidMonheit/AutoBot-Computer-Vision-AI-based-data-retrieval)
