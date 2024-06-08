@@ -1,4 +1,4 @@
-<h1>Hi, I'm David! <br/><a href="https://github.com/joshmadakor1">Software Developer</a>
+<h1>Hi, I'm David! <br/><a href="">Software Developer</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
